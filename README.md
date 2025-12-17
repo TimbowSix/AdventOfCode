@@ -1,4 +1,4 @@
-Advent of Code challanges.
+Advent of Code challenges.
 
 https://adventofcode.com/
 
